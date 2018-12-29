@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress": "./node_modules/.bin/cypress open"
+    "nightwatch": "node_modules/.bin/nightwatch --config nightwatch/config/nightwatch.conf.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^3.1.4"
-  }
+    "axios": "^0.18.0",
+    "chromedriver": "^2.45.0",
+    "nightwatch": "^1.0.17",
+    "selenium-server": "^3.141.59"
+  },
+  "dependencies": {}
 }
