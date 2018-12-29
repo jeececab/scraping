@@ -5,146 +5,16 @@
 
   <testsuite name="sporting-life-href"
     errors="0" failures="0" hostname="" id="" package="sporting-life-href" skipped="0"
-    tests="2" time="60.24" timestamp="">
+    tests="2" time="84.55" timestamp="">
   
-    <testcase name="extracts TNF products&#39;s href from Sportchek brand page" classname="sporting-life-href" time="48.63" assertions="52">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
+    <testcase name="extracts TNF products&#39;s href from Sportchek brand page" classname="sporting-life-href" time="65.92" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="extracts Arcteryx products&#39;s href from Sportchek brand page" classname="sporting-life-href" time="11.61" assertions="17">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
+    <testcase name="extracts Arcteryx products&#39;s href from Sportchek brand page" classname="sporting-life-href" time="18.64" assertions="2">
 
     
 
